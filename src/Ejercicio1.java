@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-
+//correccion ejercicio 1-A
     public static void main(String[] args) throws Exception {
 
         Scanner leer = new Scanner(System.in);
